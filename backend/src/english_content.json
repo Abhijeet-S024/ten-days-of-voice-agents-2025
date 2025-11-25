@@ -1,0 +1,26 @@
+[
+    {
+        "id": "tenses",
+        "title": "English Tenses",
+        "summary": "English tenses describe the time of an action. The three main tenses are Past, Present, and Future, and each has four forms: Simple, Continuous, Perfect, and Perfect Continuous.",
+        "sample_question": "How many main tenses are there in English, and what are they called?"
+    },
+    {
+        "id": "parts_of_speech",
+        "title": "Parts of Speech",
+        "summary": "Parts of speech are the basic categories of words based on their function. The main ones are Nouns, Pronouns, Verbs, Adjectives, Adverbs, Prepositions, Conjunctions, and Interjections.",
+        "sample_question": "Name any four parts of speech and give examples."
+    },
+    {
+        "id": "articles",
+        "title": "Articles",
+        "summary": "Articles are words that define a noun as specific or unspecific. The definite article is 'the'. The indefinite articles are 'a' and 'an'.",
+        "sample_question": "When do we use 'a' and when do we use 'an'?"
+    },
+    {
+        "id": "voice",
+        "title": "Active and Passive Voice",
+        "summary": "Voice describes whether the subject performs or receives an action. In Active Voice, the subject does the action. In Passive Voice, the subject receives the action.",
+        "sample_question": "Convert this sentence to passive voice: 'The teacher teaches the students.'"
+    }
+]
