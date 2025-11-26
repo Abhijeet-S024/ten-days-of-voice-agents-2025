@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abhijeet",
+        "company": "Sujugo company",
+        "email": 243sss@yahoo.com",
+        "role": "admin",
+        "event_type": "conference",
+        "attendee_size": "100",
+        "timeline": "This month",
+        "timestamp": "2025-11-26T01:09:25.636777"
+    },
+    {
+        "name": "Abhijit",
+        "company": "Sujugo company",
+        "email": "x y z at the rate Gmail dot com",
+        "role": "admin",
+        "event_type": "seminar",
+        "attendee_size": "around 100",
+        "timeline": "within seven days",
+        "timestamp": "2025-11-26T01:19:44.143507"
+    },
+    {
+        "name": "Abhijit",
+        "company": "Sujugo",
+        "email": "991jeet@gmail.com",
+        "role": "Admin",
+        "event_type": "hybrid event",
+        "attendee_size": "100 people",
+        "timeline": "twenty ninth of this month",
+        "timestamp": "2025-11-26T19:58:46.540527"
+    }
+]
