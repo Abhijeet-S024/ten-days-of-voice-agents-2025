@@ -1,0 +1,38 @@
+{
+    "company": "Sujugo",
+    "description": "Sujugo is a virtual and hybrid event platform that helps enterprises host webinars, internal events, conferences, and large-scale hybrid experiences with backstage production, branding, engagement tools, and analytics.",
+    "faqs": [
+        {
+            "question": "What does Sujugo do?",
+            "answer": "Sujugo helps companies host virtual and hybrid events with backstage production tools, speaker management, branded virtual stages, engagement features, and real-time analytics."
+        },
+        {
+            "question": "Who is Sujugo for?",
+            "answer": "Sujugo is designed for enterprises, marketing teams, HR teams, event agencies, and organizations looking to host webinars, product launches, conferences, and hybrid events."
+        },
+        {
+            "question": "Do you support hybrid events?",
+            "answer": "Yes, Sujugo fully supports hybrid events combining in-person and virtual attendees with unified production tools."
+        },
+        {
+            "question": "Do you provide analytics?",
+            "answer": "Yes, Sujugo includes attendee engagement analytics, session performance data, and event-level reporting."
+        },
+        {
+            "question": "What features do you offer?",
+            "answer": "Sujugo offers registration, ticketing, backstage mode, speaker management, virtual stages, breakout rooms, networking tools, engagement widgets, and detailed analytics."
+        },
+        {
+            "question": "How does pricing work?",
+            "answer": "Sujugo uses custom pricing based on event size and requirements. The team provides a quote after understanding your event needs."
+        },
+        {
+            "question": "Do you integrate with CRMs?",
+            "answer": "Yes, Sujugo integrates with Salesforce, HubSpot, Marketo, and other enterprise CRMs."
+        },
+        {
+            "question": "Is there a free tier?",
+            "answer": "Sujugo does not offer a free tier, but provides demo access and pilot programs upon request."
+        }
+    ]
+}
