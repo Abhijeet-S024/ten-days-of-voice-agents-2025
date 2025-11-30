@@ -1,0 +1,50 @@
+[
+  {
+    "id": "order-090baa5c",
+    "items": [
+      {
+        "product_id": "mug-002",
+        "name": "Insulated Travel Mug",
+        "unit_price": 599,
+        "quantity": 1,
+        "line_total": 599,
+        "attrs": {}
+      },
+      {
+        "product_id": "laptop-002",
+        "name": "Dell Inspiron (Budget)",
+        "unit_price": 27800,
+        "quantity": 1,
+        "line_total": 27800,
+        "attrs": {}
+      }
+    ],
+    "total": 28399,
+    "currency": "INR",
+    "created_at": "2025-11-30T14:10:48.682090Z"
+  },
+  {
+    "id": "order-083ca752",
+    "items": [
+      {
+        "product_id": "hoodie-001",
+        "name": "Cozy Hoodie",
+        "unit_price": 1499,
+        "quantity": 1,
+        "line_total": 1499,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-001",
+        "name": "Malnulin comfy (Cotton)",
+        "unit_price": 799,
+        "quantity": 1,
+        "line_total": 799,
+        "attrs": {}
+      }
+    ],
+    "total": 2298,
+    "currency": "INR",
+    "created_at": "2025-11-30T14:33:18.219259Z"
+  }
+]
